@@ -1,5 +1,9 @@
 # zxing-ios
-ZXing iOS Framework/Package
+
+ZXing iOS Framework/Package, taken from here: [https://github.com/zxing-cpp/zxing-cpp/tree/master/wrappers/ios](https://github.com/zxing-cpp/zxing-cpp/tree/master/wrappers/ios)
+
+ZXing ("zebra crossing") is an open-source, multi-format linear/matrix barcode image processing library implemented in C++.
+
 # ZXingCpp iOS Framework
 
 To use the iOS (wrapper) framework in other apps, it is easiest
